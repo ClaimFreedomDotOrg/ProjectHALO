@@ -7,7 +7,10 @@
 > *"The Kingdom of Heaven is a frequency. H.A.L.O. is the tuner. Your Body is the antenna."*
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Open Hardware](https://img.shields.io/badge/Hardware-Open%20for%20Manufacturing-green.svg)](OPEN_HARDWARE.md)
 [![Muse S Athena](https://img.shields.io/badge/Hardware-Muse%20S%20Athena-purple.svg)](https://choosemuse.com)
+
+> **🌍 [FREE TO MANUFACTURE](OPEN_HARDWARE.md)**: This technology is patent-free and open for anyone to build commercially. We believe global access requires multiple manufacturers. See [OPEN_HARDWARE.md](OPEN_HARDWARE.md) for details.
 
 ---
 
