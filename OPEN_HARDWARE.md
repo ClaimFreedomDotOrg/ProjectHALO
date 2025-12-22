@@ -64,13 +64,19 @@ You are **explicitly and enthusiastically encouraged** to manufacture H.A.L.O. d
 - **No geographic restrictions** on where you can manufacture or sell
 - **No volume restrictions** on how many you can make
 
-### Attribution (Optional but Appreciated)
+### Attribution Requirements
 
-While not required, we appreciate:
+**For Trademark Compliance:**
 
-- Acknowledging "Based on Project H.A.L.O. by ClaimFreedomDotOrg"
+- ✅ **DO** acknowledge: "Based on Project H.A.L.O. technology by ClaimFreedomDotOrg"
+- ✅ **DO** use your own unique brand name for your product
+- ❌ **DON'T** use "H.A.L.O." or "HALO" as your product name
+
+**Encouraged (but optional):**
+
 - Contributing improvements back to the repository
 - Supporting the open-source community that made this possible
+- Sharing your manufacturing experiences and learnings
 
 ---
 
@@ -91,8 +97,8 @@ This pledge covers:
 
 This pledge does **NOT** grant rights to:
 
+- ❌ **Trademarks**: "H.A.L.O.", "HALO", "Project H.A.L.O.", "Project HALO", and "ClaimFreedomDotOrg" are protected trademarks (see Trademark Policy below)
 - ❌ Third-party components (Muse headbands, TENS units, etc.) - respect their licenses
-- ❌ Trademarks: "Project H.A.L.O." and "ClaimFreedomDotOrg" are trademarks and should not imply endorsement
 - ❌ Medical claims: Do not market as a medical device without proper regulatory approval
 
 ---
@@ -119,6 +125,76 @@ In many jurisdictions, H.A.L.O. may be classified as a medical device and requir
 - Adverse event reporting
 
 **We provide the design; you must handle compliance for your market.**
+
+---
+
+## ™️ Trademark Policy
+
+### Protected Marks
+
+While the technology is free to manufacture, the following names and marks are **protected trademarks** owned by ClaimFreedomDotOrg:
+
+- **"H.A.L.O."** and **"HALO"** (in any capitalization)
+- **"Project H.A.L.O."** and **"Project HALO"**
+- **"Hemispheric Alignment & Limbic Override"**
+- **"ClaimFreedomDotOrg"**
+- Associated logos and branding materials
+
+### Restrictions on Use
+
+**YOU MAY NOT:**
+
+❌ Name your manufactured devices "H.A.L.O." or "HALO"  
+❌ Use "H.A.L.O." or "HALO" as a brand name or product name  
+❌ Register domain names containing "HALO" related to this technology  
+❌ Use our trademarks in a way that implies official endorsement or association  
+❌ Create derivative marks that are confusingly similar (e.g., "HALO Plus", "HALO Pro", "MyHALO")  
+
+### What You CAN Do
+
+**YOU MAY:**
+
+✅ Describe your product as: "Based on Project H.A.L.O. technology"  
+✅ State: "Compatible with H.A.L.O. software"  
+✅ Reference in technical documentation: "Implements the H.A.L.O. method"  
+✅ Use in comparative/nominative fair use: "Alternative to H.A.L.O."  
+✅ Choose your own unique brand name for your devices  
+
+### Why We Protect the Trademark
+
+**The technology is free; the name is not.** This protects:
+
+1. **Quality Control**: We can't control manufacturing quality, but we can prevent poor-quality devices from using our name
+2. **User Safety**: People need to know what is "official" vs. third-party
+3. **Brand Integrity**: Prevents dilution and misuse of the mark
+4. **Project Sustainability**: Allows us to potentially license the trademark for revenue while keeping tech free
+
+### Choosing Your Brand Name
+
+When manufacturing devices based on this technology, choose a unique brand name. Examples:
+
+- **Good**: "NeuroSync Pro", "MindFlow Device", "Synapse Regulator", "[YourCompany] Neural Biofeedback System"
+- **Bad**: "HALO Device", "H.A.L.O. Pro", "Project HALO Compatible"
+
+You can still reference the technology in descriptions and technical specs without using it as a product name.
+
+### Enforcement
+
+We will protect our trademark rights through:
+
+- Cease and desist letters for unauthorized use
+- UDRP proceedings for infringing domain names
+- Legal action if necessary to prevent consumer confusion
+
+**Violating trademark rights may also terminate your patent license under the defensive termination clause.**
+
+### Questions About Trademark Use?
+
+If you're unsure whether your intended use is permitted:
+
+- **Prohibited**: Using "HALO" as your product name ❌
+- **Allowed**: "[YourBrand] device, based on Project H.A.L.O. technology" ✅
+- **Contact us**: Open an issue if you need clarification on specific use cases
 
 ---
 
@@ -159,6 +235,7 @@ If you develop significant improvements:
 | Software/Firmware | MIT | ✅ Yes | ✅ Yes | ❌ No |
 | Hardware Designs | CERN-OHL-S-2.0 or CC0 | ✅ Yes | ✅ Yes | Encouraged |
 | Patents | Public Pledge | ✅ Yes | ✅ Yes | N/A |
+| Trademarks | Protected ™️ | ❌ No | ❌ No | N/A |
 
 ### Warranty Disclaimer
 
