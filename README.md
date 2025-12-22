@@ -14,6 +14,63 @@
 
 ---
 
+## 🛠️ **BUILD IT YOURSELF**
+
+### **Two Options for Building Your Own H.A.L.O. Device:**
+
+---
+
+### 🎯 **Option 1: Manual Protocol (Ultra-Accessible)**
+
+### **→ [Manual Protocol Guide - No Headband Required](docs/MANUAL_PROTOCOL.md) ←**
+
+> Total Cost: $35-75 | No EEG | Self-Guided
+
+The simplified version using just tVNS and optional bilateral audio:
+
+- ✅ **90% cheaper** than full system (~$35-75)
+- ✅ **No technical setup** (no software, Bluetooth, or computer)
+- ✅ **Core therapeutic mechanism** (tVNS + bilateral stimulation + trauma processing)
+- ✅ **Fully portable** (fits in a bag)
+- ⚠️ Requires learning to recognize your own nervous system states
+
+**Required:**
+
+- TENS 7000 unit (~$35)
+- Ear clip electrodes (~$10)
+
+**Optional but recommended:**
+
+- Over-ear headphones (~$30+) for bilateral audio stimulation
+
+**[→ Start with Manual Protocol](docs/MANUAL_PROTOCOL.md)**
+
+---
+
+### 🔬 **Option 2: Full Automated System (With EEG Biofeedback)**
+
+### **→ [Complete DIY Build Instructions](docs/SETUP.md) ←**
+
+> Total Cost: ~$500 | Build Time: 1-2 hours
+
+The full system with automated EEG-based intervention:
+
+📋 **[Hardware Setup Guide](docs/SETUP.md)** - Complete bill of materials, safety warnings, and assembly instructions  
+⚡ **[Quick Start Guide](docs/QUICKSTART.md)** - Get running in 30 minutes  
+❓ **[FAQ](docs/FAQ.md)** - Troubleshooting and common questions
+
+**Required Components:**
+
+- Muse S (Gen 2/Athena) headband (~$400)
+- TENS 7000 unit (~$35)
+- Ear clip electrodes (~$10)
+- Computer with Bluetooth
+- Stereo earbuds
+
+**All designs, software, and instructions are free and open source. Start building today!**
+
+---
+
 ## 🎯 Executive Summary
 
 **Project H.A.L.O.** is a closed-loop wearable system designed to mechanically regulate the brain's **Salience Network** during shadow work and trauma processing. It detects when a user is "stuck" in a trauma loop (Default Mode Network dominance) and mechanically intervenes to shift neural activity into the present moment (Task Positive Network), creating a safe biological container for processing.
