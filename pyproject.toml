@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "halo"
+version = "0.1.0"
+description = "Hemispheric Alignment & Limbic Override - A neuro-biological regulator for shadow work"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "ClaimFreedom.org"},
+]
+keywords = ["eeg", "neuroscience", "muse", "biofeedback", "shadow-work", "trauma-processing"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Healthcare Industry",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scipy>=1.10.0",
+    "matplotlib>=3.7.0",
+    "mne>=1.5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+]
+
+[project.scripts]
+halo-monitor = "halo.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/ClaimFreedomDotOrg/ProjectHALO"
+Repository = "https://github.com/ClaimFreedomDotOrg/ProjectHALO"
+Issues = "https://github.com/ClaimFreedomDotOrg/ProjectHALO/issues"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["halo*"]
+namespaces = false

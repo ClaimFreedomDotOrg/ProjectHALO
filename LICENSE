@@ -1,0 +1,53 @@
+MIT License
+
+Copyright (c) 2025 ClaimFreedomDotOrg / Project H.A.L.O.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+DISCLAIMER:
+
+Project H.A.L.O. (Hemispheric Alignment & Limbic Override) is experimental
+research software and is NOT a medical device. This software is not intended
+to diagnose, treat, cure, or prevent any disease or medical condition.
+
+USE AT YOUR OWN RISK. The authors and contributors:
+
+- Make no warranties about safety, efficacy, or suitability for any purpose
+- Assume no liability for any injury, harm, or adverse effects
+- Are not responsible for misuse or improper application
+- Strongly recommend consulting healthcare professionals before use
+
+This project is NOT affiliated with, endorsed by, or approved by:
+
+- InteraXon Inc (makers of Muse headband)
+- OpenMuse project
+- Any medical or therapeutic professional organizations
+
+TENS (Transcutaneous Electrical Nerve Stimulation) devices carry inherent risks.
+Never use TENS devices if you have a pacemaker, heart condition, or other
+contraindications. Follow all safety guidelines in SETUP.md.
+
+By using this software, you acknowledge:
+
+- You have read and understood all safety warnings
+- You accept full responsibility for your use of this system
+- You will not hold the authors liable for any consequences
+- This is experimental technology used for personal exploration only
