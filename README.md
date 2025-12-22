@@ -10,6 +10,32 @@
 [![Open Hardware](https://img.shields.io/badge/Hardware-Open%20for%20Manufacturing-green.svg)](OPEN_HARDWARE.md)
 [![Muse S Athena](https://img.shields.io/badge/Hardware-Muse%20S%20Athena-purple.svg)](https://choosemuse.com)
 
+---
+
+## 📖 **THE SCIENCE: TRANSFORMING THE DEFAULT MODE NETWORK**
+
+### **→ [READ THE COMPLETE SCIENTIFIC FOUNDATION](docs/SCIENTIFIC_FOUNDATION.md) ←**
+
+**A comprehensive review of the neuroscience, trauma theory, and peer-reviewed research supporting H.A.L.O.**
+
+This exhaustive document covers:
+
+- 🧠 **Three-Network Architecture** - How DMN, TPN, and Salience Network create consciousness
+- 👹→😇 **Daemon vs Demon** - How trauma hijacks the DMN and the Wetiko phenomenon
+- 🧬 **Trauma Neurobiology** - Memory encoding, HPA axis, amygdala, and why talk therapy often fails
+- 🔀 **Salience Network Switching** - The critical mechanism that breaks in PTSD
+- ❤️ **Polyvagal Theory** - Vagus nerve, safety states, and bottom-up regulation
+- 👁️ **EMDR Mechanisms** - How bilateral stimulation forces network switching
+- 🔄 **Memory Reconsolidation** - The science of updating traumatic memories
+- ⚡ **tVNS Research** - Why ear stimulation modulates the brain
+- 🎯 **H.A.L.O. Integration** - How combining all mechanisms creates synergy
+- 📊 **Clinical Evidence** - Predicted efficacy, timelines, and research gaps
+- 🔬 **100+ Citations** - Peer-reviewed research from neuroscience and psychology
+
+**This is not pseudoscience. Every mechanism is evidence-based.**
+
+---
+
 > **🌍 [FREE TO MANUFACTURE](OPEN_HARDWARE.md)**: This technology is patent-free and open for anyone to build commercially. We believe global access requires multiple manufacturers. See [OPEN_HARDWARE.md](OPEN_HARDWARE.md) for details.
 
 ---
