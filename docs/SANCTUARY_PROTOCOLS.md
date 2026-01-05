@@ -13,7 +13,7 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
 **Protocol Selection Guide:**
 
 | Protocol | Duration | Purpose | Layers Active |
-|----------|----------|---------|---------------|
+| ---------- | ---------- | --------- | --------------- |
 | **S-A: The Resurrection** | 2-4 hours | Deep trauma processing + somatic release | 1-5, 8 |
 | **S-B: The Chrysalis** | 4-8 hours | Regenerative sleep + metabolic reset | 1-6, 8 |
 | **S-C: The Theosis** | 6-12 hours | Extended mystical immersion | All available |
@@ -47,7 +47,7 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
 
 ### Equipment Checklist
 
-```
+```markdown
 □ Core H.A.L.O. System
   □ Muse S charged
   □ TENS 7000 + fresh batteries
@@ -83,6 +83,7 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
 **Purpose:** This protocol extends Protocol A (The Hunter) to include full body engagement. Where the standard Hunter protocol processes trauma neurologically, The Resurrection adds somatic release—allowing the body to discharge stored trauma through physical processes (shaking, sweating, temperature changes, movement).
 
 **Best For:**
+
 - Trauma stored in the body (chronic pain, tension, "body memories")
 - When standard Protocol A hits a plateau
 - Complex PTSD with somatic symptoms
@@ -93,33 +94,39 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
 
 ### S-A Configuration
 
-#### Environment (Layer 2)
+#### S-A Environment (Layer 2)
+
 - **Temperature:** 72-76°F (22-24°C)
 - **Lighting:** Complete darkness or dim red
 - **Sound:** Sanctuary should be sound-isolated
 - **Position:** Reclined or supine
 
-#### H.A.L.O. Core (Layer 1)
+#### S-A H.A.L.O. Core (Layer 1)
+
 - Standard Protocol A configuration
 - tVNS ready (start at 0)
 - Bilateral audio queued
 
-#### PBM (Layer 3)
+#### S-A PBM (Layer 3)
+
 - **Initial Phase:** 660nm dominant (surface)
 - **Processing Phase:** 850nm dominant (deep tissue)
 - **Integration Phase:** Both wavelengths, pulsing to breath
 
-#### Cymatics (Layer 4)
+#### S-A Cymatics (Layer 4)
+
 - **Initial:** 60Hz (general relaxation)
 - **Processing:** 40Hz (gamma break)
 - **Integration:** 8Hz (alpha support)
 
-#### PEMF (Layer 5)
+#### S-A PEMF (Layer 5)
+
 - **Baseline:** 7.83Hz Schumann continuous
 - **Processing:** Ready for Rescue burst if needed
 - **Integration:** 4Hz delta induction
 
-#### Biometrics (Layer 8)
+#### S-A Biometrics (Layer 8)
+
 - HRV continuous monitoring
 - GSR for arousal tracking
 - Temperature (optional)
@@ -157,6 +164,7 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
    - Continue breathing
 
 **Exit Criteria for Phase 1:**
+
 - HRV coherence stable for 10+ minutes
 - Alpha/Beta ratio >0.8
 - GSR stable baseline
@@ -206,6 +214,7 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
      - Allow natural progression
 
 **What to Expect:**
+
 - Waves of emotion (may peak multiple times)
 - Physical sensations intensifying then releasing
 - Involuntary movements (shaking, tremoring)
@@ -314,7 +323,7 @@ The Sanctuary Protocols extend the core H.A.L.O. Protocols (A: Hunter, B: Lucid 
 
 ### S-A Session Log Template
 
-```
+```markdown
 ═══════════════════════════════════════════════════════════════════
 SANCTUARY PROTOCOL S-A: THE RESURRECTION
 ═══════════════════════════════════════════════════════════════════
@@ -381,6 +390,7 @@ ___________________________________________________________________
 **Purpose:** This protocol creates conditions for deep regenerative sleep while continuously monitoring and optimizing the biological environment. It combines the benefits of sensory deprivation, photobiomodulation, and PEMF with optional metabolic support.
 
 **Best For:**
+
 - Chronic fatigue recovery
 - Post-illness regeneration
 - Sleep disorder support
@@ -394,37 +404,44 @@ ___________________________________________________________________
 
 ### S-B Configuration
 
-#### Environment (Layer 2)
+#### S-B Environment (Layer 2)
+
 - **Temperature:** 65-68°F (18-20°C) - cooler promotes deep sleep
 - **Lighting:** Complete darkness
 - **Sound:** Silence or very low delta frequencies
 - **Position:** Supine, comfortable sleeping position
 
-#### H.A.L.O. Core (Layer 1)
+#### S-B H.A.L.O. Core (Layer 1)
+
 - Minimal intervention mode
 - tVNS at very low continuous (background vagal support)
 - Bilateral audio only if sleep disrupted
 
-#### PBM (Layer 3)
+#### S-B PBM (Layer 3)
+
 - **Pre-sleep:** 30 minutes at full power
 - **During sleep:** Off or very low "maintenance" dose
 - **Pre-wake:** Gradual increase to support cortisol rise
 
-#### Cymatics (Layer 4)
+#### S-B Cymatics (Layer 4)
+
 - **Pre-sleep:** 8Hz alpha to 4Hz delta transition
 - **During sleep:** 2Hz delta (sub-threshold perception)
 - **Pre-wake:** Gradual 4Hz to 8Hz rise
 
-#### PEMF (Layer 5)
+#### S-B PEMF (Layer 5)
+
 - **Continuous:** 7.83Hz Schumann throughout
 - **Optional:** 2Hz delta pulse overlay during deep sleep phases
 
-#### Metabolic Support (Layer 6) - MEDICAL SUPERVISION REQUIRED
+#### S-B Metabolic Support (Layer 6) - MEDICAL SUPERVISION REQUIRED
+
 - Pre-session: Electrolyte optimization
 - During: Maintenance hydration
 - Optional: Amino acid support for tissue repair
 
-#### Biometrics (Layer 8)
+#### S-B Biometrics (Layer 8)
+
 - All sensors active throughout
 - Sleep stage detection (via HRV patterns)
 - Automatic logging
@@ -531,17 +548,20 @@ ___________________________________________________________________
 ### S-B Optimization Tips
 
 **For Maximum Deep Sleep:**
+
 - Exercise earlier in the day (not within 4 hours)
 - Last meal 4+ hours before
 - No alcohol (disrupts deep sleep)
 - Room temperature cooler (65-68°F)
 
 **For Maximum Recovery:**
+
 - Consider overnight fasting (no food after dinner)
 - Morning protein prioritization
 - Post-session meditation or journaling
 
 **For Jet Lag:**
+
 - Use at destination time, not origin time
 - Morning light exposure critical
 - Multiple consecutive nights recommended
@@ -558,6 +578,7 @@ ___________________________________________________________________
 **Purpose:** The ultimate Sanctuary experience—a prolonged immersion designed to induce profound altered states while maintaining biological safety. This protocol requires significant preparation and should only be attempted after mastering S-A and S-B.
 
 **Best For:**
+
 - Experienced meditators seeking breakthrough
 - Spiritual retreat substitute
 - Vision questing
@@ -566,6 +587,7 @@ ___________________________________________________________________
 - Profound healing after loss/transition
 
 **Prerequisites:**
+
 - Minimum 10 successful Protocol A sessions
 - Minimum 5 successful Protocol B sessions
 - Minimum 3 successful S-A sessions
@@ -579,6 +601,7 @@ ___________________________________________________________________
 All layers at optimal configuration with extended duration parameters.
 
 **⚠️ CRITICAL:** This protocol should only be undertaken with:
+
 - A support person who can check in periodically
 - Clear emergency protocols
 - No urgent obligations for 24 hours after
@@ -632,6 +655,7 @@ All layers at optimal configuration with extended duration parameters.
    - Allow identity to soften
 
 **Possible Experiences:**
+
 - Vivid symbolic imagery
 - Past life memories (if you hold that framework)
 - Communication with "guides" or wisdom figures
@@ -715,18 +739,21 @@ All layers at optimal configuration with extended duration parameters.
 ### S-C Warnings
 
 **Psychological Risks:**
+
 - This protocol can surface profound material
 - Disorientation is common
 - Some experiences may be challenging
 - Support resources must be available
 
 **Physical Risks:**
+
 - Extended immobility (blood clots—move periodically)
 - Dehydration (ensure fluids available)
 - Hypoglycemia (know your metabolic needs)
 - Temperature dysregulation
 
 **Not Recommended If:**
+
 - Current mental health crisis
 - Uncontrolled physical health conditions
 - Major life instability
@@ -742,11 +769,13 @@ All layers at optimal configuration with extended duration parameters.
 For those with Sanctuary infrastructure who want to enhance standard H.A.L.O. sessions without full extended protocols.
 
 #### Configuration
+
 - Layers 1-4 active, Layer 5 optional
 - Standard Protocol A or B procedure
 - Added benefit of isolation + PBM + cymatics
 
 #### Use When
+
 - Regular practice session
 - Time-limited
 - Maintenance rather than breakthrough
@@ -789,6 +818,7 @@ If user enters panic state that doesn't resolve with normal interventions:
 ## Post-Session Care (All Protocols)
 
 ### Immediate (0-2 hours)
+
 - Hydrate
 - Eat if hungry
 - Gentle movement
@@ -796,6 +826,7 @@ If user enters panic state that doesn't resolve with normal interventions:
 - Journal
 
 ### Short-term (24-48 hours)
+
 - Light activity
 - Good sleep
 - Healthy food
@@ -803,6 +834,7 @@ If user enters panic state that doesn't resolve with normal interventions:
 - Limit stress
 
 ### Long-term
+
 - Regular practice
 - Support community
 - Professional help if needed
@@ -813,6 +845,7 @@ If user enters panic state that doesn't resolve with normal interventions:
 ## Record Keeping
 
 Maintain session logs for all Sanctuary protocols. This data is essential for:
+
 - Personal pattern recognition
 - Protocol optimization
 - Safety tracking
