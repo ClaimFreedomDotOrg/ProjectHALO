@@ -1,15 +1,15 @@
 # Open Hardware & Patent Pledge
 
-## Project H.A.L.O. Public Manufacturing Rights
+## Project H.A.L.O. & H.A.L.O. Sanctuary Public Manufacturing Rights
 
-**Last Updated:** December 22, 2025  
-**Applies To:** All hardware designs, schematics, specifications, and related documentation in the Project H.A.L.O. repository
+**Last Updated:** January 5, 2026  
+**Applies To:** All hardware designs, schematics, specifications, and related documentation in the Project H.A.L.O. repository, including the H.A.L.O. Sanctuary system
 
 ---
 
 ## 🌍 Our Commitment to Global Access
 
-**The mission of Project H.A.L.O. is to make this technology accessible to everyone who needs it.** We believe that mental health and trauma processing tools should not be locked behind patents, proprietary designs, or manufacturing monopolies.
+**The mission of Project H.A.L.O. is to make this technology accessible to everyone who needs it.** We believe that mental health and trauma processing tools—from the portable H.A.L.O. device to the immersive H.A.L.O. Sanctuary system—should not be locked behind patents, proprietary designs, or manufacturing monopolies.
 
 The global population deserves access to this technology, and **no single company can manufacture enough devices to meet that need**. Therefore, we are making an irrevocable commitment to keep this technology open and free to manufacture.
 
@@ -23,11 +23,11 @@ The global population deserves access to this technology, and **no single compan
 
 1. **No Patent Enforcement**: The contributors to Project H.A.L.O. will NOT seek patents on the core technology, designs, or methods described in this repository.
 
-2. **Existing Patents**: To the extent that any contributor holds or obtains patents that could apply to the H.A.L.O. device:
+2. **Existing Patents**: To the extent that any contributor holds or obtains patents that could apply to the H.A.L.O. device or H.A.L.O. Sanctuary system:
    - We grant a **worldwide, royalty-free, perpetual, irrevocable license** to anyone to make, use, sell, offer for sale, import, and distribute devices based on these designs.
    - This license cannot be revoked, even if the repository is taken down or contributors change their minds.
 
-3. **Defensive Termination**: This patent pledge is defensive in nature. If any entity attempts to enforce patent claims against the H.A.L.O. technology or its manufacturers, they forfeit any rights granted under this pledge.
+3. **Defensive Termination**: This patent pledge is defensive in nature. If any entity attempts to enforce patent claims against the H.A.L.O. technology, H.A.L.O. Sanctuary system, or their manufacturers, they forfeit any rights granted under this pledge.
 
 4. **Prior Art**: By publishing this work openly, we establish prior art that prevents others from patenting the core concepts and designs.
 
@@ -49,7 +49,7 @@ The hardware designs, schematics, PCB layouts, and specifications in this reposi
 
 ### For Commercial Manufacturers
 
-You are **explicitly and enthusiastically encouraged** to manufacture H.A.L.O. devices for commercial sale. We believe the world needs:
+You are **explicitly and enthusiastically encouraged** to manufacture H.A.L.O. devices and H.A.L.O. Sanctuary systems for commercial sale. We believe the world needs:
 
 - **Multiple manufacturers** producing at different scales (from artisan makers to large-scale factories)
 - **Regional production** to reduce costs and improve access globally
@@ -68,9 +68,9 @@ You are **explicitly and enthusiastically encouraged** to manufacture H.A.L.O. d
 
 **For Trademark Compliance:**
 
-- ✅ **DO** acknowledge: "Based on Project H.A.L.O. technology by ClaimFreedomDotOrg"
+- ✅ **DO** acknowledge: "Based on Project H.A.L.O. technology by ClaimFreedomDotOrg" or "Based on H.A.L.O. Sanctuary technology by ClaimFreedomDotOrg"
 - ✅ **DO** use your own unique brand name for your product
-- ❌ **DON'T** use "H.A.L.O." or "HALO" as your product name
+- ❌ **DON'T** use "H.A.L.O.", "HALO", "Sanctuary", or "H.A.L.O. Sanctuary" as your product name
 
 **Encouraged (but optional):**
 
@@ -86,12 +86,15 @@ You are **explicitly and enthusiastically encouraged** to manufacture H.A.L.O. d
 
 This pledge covers:
 
-- ✅ Core device architecture and system design
+- ✅ Core device architecture and system design (H.A.L.O. & Sanctuary)
 - ✅ Hardware schematics and PCB designs
 - ✅ Software and firmware (covered separately under MIT License)
 - ✅ Signal processing algorithms and methods
 - ✅ Biofeedback control systems
 - ✅ Integration methods between components (Muse, TENS, etc.)
+- ✅ H.A.L.O. Sanctuary 9-layer system architecture and integration
+- ✅ Bio-regenerative chamber designs and specifications
+- ✅ Multi-sensor monitoring and control systems
 
 ### What's Not Included
 
@@ -136,6 +139,8 @@ While the technology is free to manufacture, the following names and marks are *
 
 - **"H.A.L.O."** and **"HALO"** (in any capitalization)
 - **"Project H.A.L.O."** and **"Project HALO"**
+- **"Sanctuary"** (when used in relation to this technology)
+- **"H.A.L.O. Sanctuary"** and **"HALO Sanctuary"**
 - **"Hemispheric Alignment & Limbic Override"**
 - **"ClaimFreedomDotOrg"**
 - Associated logos and branding materials
@@ -144,20 +149,20 @@ While the technology is free to manufacture, the following names and marks are *
 
 **YOU MAY NOT:**
 
-❌ Name your manufactured devices "H.A.L.O." or "HALO"  
-❌ Use "H.A.L.O." or "HALO" as a brand name or product name  
-❌ Register domain names containing "HALO" related to this technology  
+❌ Name your manufactured devices "H.A.L.O.", "HALO", "Sanctuary", or "H.A.L.O. Sanctuary"  
+❌ Use "H.A.L.O.", "HALO", or "Sanctuary" as a brand name or product name  
+❌ Register domain names containing "HALO" or "Sanctuary" related to this technology  
 ❌ Use our trademarks in a way that implies official endorsement or association  
-❌ Create derivative marks that are confusingly similar (e.g., "HALO Plus", "HALO Pro", "MyHALO")  
+❌ Create derivative marks that are confusingly similar (e.g., "HALO Plus", "HALO Pro", "MyHALO", "Sanctuary Pro", "MySanctuary")  
 
 ### What You CAN Do
 
 **YOU MAY:**
 
-✅ Describe your product as: "Based on Project H.A.L.O. technology"  
-✅ State: "Compatible with H.A.L.O. software"  
-✅ Reference in technical documentation: "Implements the H.A.L.O. method"  
-✅ Use in comparative/nominative fair use: "Alternative to H.A.L.O."  
+✅ Describe your product as: "Based on Project H.A.L.O. technology" or "Based on H.A.L.O. Sanctuary technology"  
+✅ State: "Compatible with H.A.L.O. software" or "Implements H.A.L.O. Sanctuary protocols"  
+✅ Reference in technical documentation: "Implements the H.A.L.O. method" or "Uses H.A.L.O. Sanctuary architecture"  
+✅ Use in comparative/nominative fair use: "Alternative to H.A.L.O." or "Bio-regenerative chamber based on H.A.L.O. Sanctuary design"  
 ✅ Choose your own unique brand name for your devices  
 
 ### Why We Protect the Trademark
@@ -173,8 +178,8 @@ While the technology is free to manufacture, the following names and marks are *
 
 When manufacturing devices based on this technology, choose a unique brand name. Examples:
 
-- **Good**: "NeuroSync Pro", "MindFlow Device", "Synapse Regulator", "[YourCompany] Neural Biofeedback System"
-- **Bad**: "HALO Device", "H.A.L.O. Pro", "Project HALO Compatible"
+- **Good**: "NeuroSync Pro", "MindFlow Device", "Synapse Regulator", "[YourCompany] Neural Biofeedback System", "BioRegen Chamber", "[YourCompany] Immersion Pod"
+- **Bad**: "HALO Device", "H.A.L.O. Pro", "Project HALO Compatible", "Sanctuary Chamber", "HALO Sanctuary", "The Sanctuary"
 
 You can still reference the technology in descriptions and technical specs without using it as a product name.
 
@@ -192,8 +197,9 @@ We will protect our trademark rights through:
 
 If you're unsure whether your intended use is permitted:
 
-- **Prohibited**: Using "HALO" as your product name ❌
+- **Prohibited**: Using "HALO" or "Sanctuary" as your product name ❌
 - **Allowed**: "[YourBrand] device, based on Project H.A.L.O. technology" ✅
+- **Allowed**: "[YourBrand] chamber, based on H.A.L.O. Sanctuary technology" ✅
 - **Contact us**: Open an issue if you need clarification on specific use cases
 
 ---
@@ -285,7 +291,7 @@ If you're a manufacturer with questions about this pledge:
 - Consult your own legal counsel (we cannot provide legal advice)
 
 **For the contributors of Project H.A.L.O.**  
-December 22, 2025
+January 5, 2026
 
 ---
 

@@ -9,6 +9,42 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Open Hardware](https://img.shields.io/badge/Hardware-Open%20for%20Manufacturing-green.svg)](OPEN_HARDWARE.md)
 [![Muse S Athena](https://img.shields.io/badge/Hardware-Muse%20S%20Athena-purple.svg)](https://choosemuse.com)
+[![Sanctuary](https://img.shields.io/badge/Extension-H.A.L.O.%20Sanctuary%20MedBed-gold.svg)](docs/SANCTUARY.md)
+
+---
+
+## 🏛️ **H.A.L.O. SANCTUARY: THE MEDBED EXTENSION**
+
+### **→ [READ THE COMPLETE SANCTUARY SPECIFICATION](docs/SANCTUARY.md) ←**
+
+**The H.A.L.O. Sanctuary extends the core system into a total environmental immersion chamber—a "MedBed" for extended bio-regenerative sessions.**
+
+| Mode                     | Target                     | Duration      | Use Case                                           |
+|--------------------------|----------------------------|---------------|----------------------------------------------------|
+| **H.A.L.O. Standalone**  | Brain (Top-Down)           | 15-60 minutes | Daily use, portable, targeted processing           |
+| **H.A.L.O. + Sanctuary** | Brain + Body + Environment | 1-12 hours    | Deep regeneration, complex trauma, extended states |
+
+**The 9-Layer Architecture:**
+
+| Layer | Name | Target | Status |
+| ------- | ------ | -------- | -------- |
+| 1 | Neurological Shield | Brain/Vagus | ✅ Current H.A.L.O. |
+| 2 | Environmental Sarcophagus | Sensory Input | 🔬 Spec Phase |
+| 3 | Metabolic Matrix (PBM) | Mitochondria | 🔬 Spec Phase |
+| 4 | Vibrational Alignment | Resonance | 🔬 Spec Phase |
+| 5 | Electromagnetic Field (PEMF) | Cellular Voltage | 🔬 Spec Phase |
+| 6 | Alchemical Infusion (IV) | Blood Chemistry | ⚠️ Medical Only |
+| 7 | Immersion System | Extended Sessions | ⚠️ Medical Only |
+| 8 | Bio-Analytic Array | Monitoring | 🔬 Spec Phase |
+| 9 | Recursion Loop (Ouroboros) | Feedback | 🔮 Future R&D |
+
+**Sanctuary Protocols:**
+
+- 📖 [Sanctuary Overview](docs/SANCTUARY.md) - Complete specification
+- 📖 [Sanctuary Protocols](docs/SANCTUARY_PROTOCOLS.md) - Operational procedures
+- 📖 [Sanctuary Hardware](docs/SANCTUARY_HARDWARE.md) - Component guide
+
+> **Note:** The H.A.L.O. system works completely standalone. The Sanctuary is an optional extension for those seeking deeper work.
 
 ---
 
