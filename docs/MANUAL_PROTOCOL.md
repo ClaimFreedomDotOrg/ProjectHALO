@@ -41,11 +41,21 @@ This is a **simplified, manual version** of the H.A.L.O. protocol that removes t
 ### NEVER
 
 - ❌ Place electrodes across the heart (chest)
-- ❌ Place electrodes on the front/side of neck
+- ❌ Place electrodes on the front or sides of the neck (carotid sinus area)
+- ❌ **Place the return/ground pad on the RIGHT side of the neck, right shoulder, or anywhere on the right side of the body.** The active electrode is on the LEFT ear — the return MUST also be on the left side. Routing current from the left ear to the right side of the body forces it to cross the midline, passing through the brainstem, heart, and central nervous system. This is a serious safety hazard.
 - ❌ Place electrodes on broken skin
 - ❌ Use while driving or operating machinery
 - ❌ Use while sleeping
 - ❌ Exceed pain threshold - if uncomfortable, turn down immediately
+
+> ### 🚨 CRITICAL: KEEP THE CURRENT ON ONE SIDE
+>
+> TENS delivers current between two electrodes. Whatever path the current takes between them is the tissue being stimulated. For this protocol:
+>
+> - **Active electrode:** left ear (cymba conchae or tragus)
+> - **Return/ground pad:** lower-left neck or left trapezius/shoulder ONLY
+>
+> **Both contacts stay on the LEFT side of the body. Never on the right.** Crossing the midline routes current through the brainstem and CNS — do not do this.
 
 ### ALWAYS
 
@@ -73,7 +83,7 @@ This is a **simplified, manual version** of the H.A.L.O. protocol that removes t
   - Frequency: 20-30 Hz (for tVNS)
   - Battery powered (safer than AC)
 
-**Alternative:** Any dual-channel TENS unit with similar specs
+**Alternative:** Any TENS unit with similar specs (single channel is sufficient — this protocol only stimulates the left ear)
 
 ### Required: Ear Clip Electrodes (~$10-15)
 
@@ -117,9 +127,19 @@ For bilateral audio stimulation (EMDR component):
 
 The **Vagus Nerve** has branches that reach the ear. Stimulating these activates the parasympathetic nervous system (rest-and-digest).
 
-### Placement Options
+### Which Ear?
 
-#### Option 1: Cymba Conchae (Recommended)
+**Use the LEFT ear only.**
+
+- The left ear has the stronger auricular vagal connection, which is the target of this protocol
+- A single-channel setup on the left ear is sufficient — you do not need both ears
+- Do not stimulate the right ear (different autonomic innervation; not the target of this protocol)
+
+### Placement Options (Left Ear)
+
+You have two acceptable clip locations on the left ear: the **cymba conchae** or the **tragus**. Both are validated tVNS targets. Pick based on comfort and whether you're using headphones.
+
+#### Option 1: Cymba Conchae
 
 **Location:** The small hollow depression just above the ear canal opening
 
@@ -145,26 +165,37 @@ The **Vagus Nerve** has branches that reach the ear. Stimulating these activates
 3. You'll feel a small hollow - that's it
 4. Should be comfortable, not painful
 
-#### Option 2: Tragus (Alternative)
+#### Option 2: Tragus
 
 **Location:** The small triangular flap of cartilage that covers the ear canal opening
 
 - Easier to clip onto
-- May be less effective than cymba conchae
-- Good backup if cymba placement is uncomfortable
+- More comfortable for some users
+- A solid alternative when not wearing in-ear audio equipment
 
-### Both Ears or One?
+### Which placement should you choose?
 
-**Start with BOTH ears** (bilateral):
+- **If you are using earbuds or in-ear headphones with the bilateral audio: you MUST clip the cymba conchae.** The tragus sits directly over the ear canal and the clip will either block or be pushed out by the earbud. The cymba is tucked higher up and out of the way.
+- **If you are using over-ear headphones or no audio at all:** either the cymba conchae or the tragus works. Pick whichever is more comfortable for you.
 
-- More effective for most people
-- Better nervous system regulation
-- Uses both channels of TENS unit
+### 🚨 Return/Ground Pad Placement — Left Side ONLY
 
-**If using one ear:**
+Every TENS channel has two leads: the active electrode (on your left ear) **and a return pad**. Where you put that return pad matters enormously.
 
-- Use LEFT ear (stronger vagal connection)
-- Can switch to right if left is uncomfortable
+**Correct placement for the return pad:**
+
+- ✅ Lower-LEFT side of the neck (below the jawline, behind the left ear, back of the neck on the left)
+- ✅ LEFT trapezius / top of the left shoulder
+- ✅ Anywhere on the LEFT side of the body near the ear
+
+**NEVER place the return pad:**
+
+- ❌ Right side of the neck
+- ❌ Right shoulder, right arm, or anywhere on the right side of the body
+- ❌ Front of the throat (carotid sinus — causes blood-pressure drops)
+- ❌ Across the chest
+
+**Why this matters:** TENS current flows between the two electrodes. If one is on your left ear and the other is on the right side of your body, the current must cross the midline — directly through your brainstem, heart, and central nervous system. This is how you short-circuit autonomic function. **Keep both contacts on the LEFT side of your body, always.**
 
 ---
 
@@ -250,7 +281,8 @@ You can do this protocol without audio, but it's less effective:
    - Ensure you won't be interrupted for 30-60 minutes
 
 2. **Attach electrodes**
-   - Place on both ears (cymba conchae)
+   - Active electrode: LEFT ear only — cymba conchae or tragus (cymba required if using earbuds)
+   - Return/ground pad: lower-LEFT neck or left shoulder — **never the right side of the body** (crossing the midline routes current through the brainstem/CNS)
    - Ensure good contact (moisten if using stick pads)
    - Turn TENS unit ON but intensity at ZERO
 
