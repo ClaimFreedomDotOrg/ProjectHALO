@@ -2,6 +2,63 @@
 
 This document provides curated audio resources for use with H.A.L.O. protocols.
 
+---
+
+## ⭐ Preferred Source: Song of the Spheres
+
+> **File:** [`audio/song_of_the_spheres_v2.wav`](../audio/song_of_the_spheres_v2.wav) (~52 MB)
+> **Derivation:** [`audio/SONG_OF_THE_SPHERES.md`](../audio/SONG_OF_THE_SPHERES.md)
+> **Generator scripts:** [`audio/`](../audio/) — pure Python, deterministic, fully reproducible.
+
+The **Song of the Spheres** is a direct audio rendering of the orbital beat-frequency standing-wave field of the seven classical sidereal orbits, scaled by a single empirically-derived compression at which the geometry phase-locks to the Schumann resonance modes of Earth's ionospheric cavity (lock confirmed at p < 0.001 against random controls). Stereo, with a bilateral L/R amplitude pendulum at 7.854 Hz — the precise Schumann-1 orbital lock-point.
+
+It is the **preferred audio source** for the H.A.L.O. Manual Protocol, the full closed-loop system, and Sanctuary Layer 4 (Vibrational Alignment).
+
+### Why this is the recommended source
+
+The generic recommendations below (EMDR bilateral tracks, 6 Hz theta binaural beats, etc.) work — they entrain the CNS through documented mechanisms, and they are valid options. The Song of the Spheres adds a property the generic sources do not have: **its content is derived from first principles** rather than designed by ear. Specifically:
+
+- **Bilateral amplitude pendulum at 7.854 Hz** — not chosen as a "good theta frequency," but derived as the orbital triple beat |Sun+Saturn−Mercury| that lands inside the Schumann-1 variability band at the precise orbital lock-point.
+- **133-voice carrier** — every voice is an orbital fundamental, pairwise beat, or three-body interference of the seven classical orbits. No voice is a designed tone; every voice is a celestial-mechanics quantity.
+- **Cardiac band populated by the deep three-body interferences** — the orbital voices in the 0.5–2.0 Hz range correspond to coherent resting heart rates (58–95 bpm). The deepest, structurally weightiest voices land at 58–66 bpm, exactly the resting heart rate band of coherent meditators.
+- **Schumann-locked** — at the file's compression scalar, all five canonical Schumann modes land within 0.49% of an orbital triple-beat voice.
+
+The carrier raises Earth's existing broadcast above the local noise floor of the modern environment. SNR is the mechanism. See [`audio/SONG_OF_THE_SPHERES.md`](../audio/SONG_OF_THE_SPHERES.md) for the full seven-step derivation.
+
+### How to use
+
+1. Play through quality stereo speakers (room-filling) or over-ear / in-ear headphones with clean L/R separation.
+2. Volume above ambient — comfortable but unmistakable. The carrier must dominate the local sound field.
+3. Allow the full 5 minutes. Cardiac and CNS entrainment require time to settle. The 10-second fade-in eases the nervous system into the field.
+4. **Pair with tVNS at the left ear** per the Manual Protocol for the full phase-coherent stack: tVNS opens the vagal gate, the audio carrier raises the orbital reference above noise floor, the bilateral pendulum delivers Schumann-1 entrainment via inter-aural envelope.
+
+### Putting it on loop
+
+**Set your audio player to loop the file**, and let it play for as long as your session needs — twenty minutes, an hour, the whole afternoon. Looping is the intended way to use the file for sessions longer than five minutes.
+
+**You will hear a small click or seam at each loop point.** This is unavoidable. We tried to engineer it away, then realized why we couldn't, and the reason is the most important thing about the file:
+
+**The orbital geometry never returns to the same configuration.** Saturn does not exactly re-align with Jupiter, Jupiter with Mars, Mars with Venus, on any timescale shorter than billions of years. To make a "true" seamless loop, every voice in the file would have to complete an integer number of cycles within the loop length so that the waveform returned to the same phase state at the loop boundary. With 133 voices at 133 different frequencies, the duration where *all* voices simultaneously close their cycles is the actual orbital recurrence time — astronomical, literally, in the original sense of the word.
+
+Trying to make this audio loop seamlessly is asking the universe to play a song from the top. It won't. It can't. **Every moment of the standing-wave field is unique to that moment** — it has never existed before in the history of the field and will never exist again. This is not a limitation of the file; it is the defining property of an open coherent system. Closed systems repeat. Closed systems decay. The geometry's irreducibility — its refusal to repeat — is what makes it negentropic, what makes it alive, what makes it worth listening to.
+
+So: loop the file in your player. Hear the seam. Recognize what the seam is teaching you. Then keep listening. Each repetition starts the carrier over from the same point in *the file*, but your nervous system is already in the field, already adapting, already locking. The seam matters less than you think. The continuous broadcast matters more.
+
+If you want a longer single-shot file with no seam at all, render one with the included script (`python3 audio/song_of_the_spheres_v2.py` after editing `DURATION_SEC`). But the lesson of the seam is worth keeping. *Be here now* is the only valid response, because *here now* is the only place there is, and it is always different.
+
+### Audacity exploration
+
+The file preserves all ratios mathematically. **Effect → Change Speed** (NOT Change Tempo) lets you slide the entire spectrum up or down the audible range while preserving every ratio between voices. This exposes different scale layers of the same scale-invariant geometry.
+
+- Slow it 10–100× to feel the slowest planetary beats as percussive rhythm.
+- Speed it 10–100× to push the slowest fundamentals into the audible band as new pitches.
+
+---
+
+## Generic Alternatives
+
+The resources below predate the Song of the Spheres and remain valid options. They are documented here for users who want simpler / shorter / different content, or who do not have the WAV file available.
+
 ## Protocol A: Bilateral Stimulation (EMDR)
 
 ### YouTube Resources (Free)
